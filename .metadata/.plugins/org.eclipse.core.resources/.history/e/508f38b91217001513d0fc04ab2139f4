@@ -1,0 +1,11 @@
+package voters;
+
+import java.util.HashMap;
+
+public class Main {
+	HashMap<Integer, Integer> hashmap;
+	public static void main(String[] args) {
+
+	}
+
+}
